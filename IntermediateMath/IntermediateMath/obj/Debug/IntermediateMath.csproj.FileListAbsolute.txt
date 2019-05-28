@@ -1,0 +1,12 @@
+H:\diploma of software\programming3\IntermediateMath\IntermediateMath\bin\Debug\IntermediateMath.dll
+H:\diploma of software\programming3\IntermediateMath\IntermediateMath\bin\Debug\IntermediateMath.pdb
+H:\diploma of software\programming3\IntermediateMath\IntermediateMath\obj\Debug\IntermediateMath.csprojAssemblyReference.cache
+H:\diploma of software\programming3\IntermediateMath\IntermediateMath\obj\Debug\IntermediateMath.csproj.CoreCompileInputs.cache
+H:\diploma of software\programming3\IntermediateMath\IntermediateMath\obj\Debug\IntermediateMath.dll
+H:\diploma of software\programming3\IntermediateMath\IntermediateMath\obj\Debug\IntermediateMath.pdb
+D:\diploma of software\programming3\IntermediateMath\IntermediateMath\bin\Debug\IntermediateMath.dll
+D:\diploma of software\programming3\IntermediateMath\IntermediateMath\bin\Debug\IntermediateMath.pdb
+D:\diploma of software\programming3\IntermediateMath\IntermediateMath\obj\Debug\IntermediateMath.csprojAssemblyReference.cache
+D:\diploma of software\programming3\IntermediateMath\IntermediateMath\obj\Debug\IntermediateMath.csproj.CoreCompileInputs.cache
+D:\diploma of software\programming3\IntermediateMath\IntermediateMath\obj\Debug\IntermediateMath.dll
+D:\diploma of software\programming3\IntermediateMath\IntermediateMath\obj\Debug\IntermediateMath.pdb

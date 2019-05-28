@@ -1,0 +1,11 @@
+H:\diploma of software\programming3\AdvancedMath\AdvancedMath\bin\Debug\AdvancedMath.dll
+H:\diploma of software\programming3\AdvancedMath\AdvancedMath\bin\Debug\AdvancedMath.pdb
+H:\diploma of software\programming3\AdvancedMath\AdvancedMath\obj\Debug\AdvancedMath.csproj.CoreCompileInputs.cache
+H:\diploma of software\programming3\AdvancedMath\AdvancedMath\obj\Debug\AdvancedMath.dll
+H:\diploma of software\programming3\AdvancedMath\AdvancedMath\obj\Debug\AdvancedMath.pdb
+D:\diploma of software\programming3\AdvancedMath\AdvancedMath\bin\Debug\AdvancedMath.dll
+D:\diploma of software\programming3\AdvancedMath\AdvancedMath\bin\Debug\AdvancedMath.pdb
+D:\diploma of software\programming3\AdvancedMath\AdvancedMath\obj\Debug\AdvancedMath.csproj.CoreCompileInputs.cache
+D:\diploma of software\programming3\AdvancedMath\AdvancedMath\obj\Debug\AdvancedMath.dll
+D:\diploma of software\programming3\AdvancedMath\AdvancedMath\obj\Debug\AdvancedMath.pdb
+D:\diploma of software\programming3\AdvancedMath\AdvancedMath\obj\Debug\AdvancedMath.csprojAssemblyReference.cache

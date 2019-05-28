@@ -1,0 +1,12 @@
+H:\diploma of software\programming3\BasicMath\BasicMath\bin\Debug\BasicMath.dll
+H:\diploma of software\programming3\BasicMath\BasicMath\bin\Debug\BasicMath.pdb
+H:\diploma of software\programming3\BasicMath\BasicMath\obj\Debug\BasicMath.csprojAssemblyReference.cache
+H:\diploma of software\programming3\BasicMath\BasicMath\obj\Debug\BasicMath.csproj.CoreCompileInputs.cache
+H:\diploma of software\programming3\BasicMath\BasicMath\obj\Debug\BasicMath.dll
+H:\diploma of software\programming3\BasicMath\BasicMath\obj\Debug\BasicMath.pdb
+D:\diploma of software\programming3\BasicMath\BasicMath\bin\Debug\BasicMath.dll
+D:\diploma of software\programming3\BasicMath\BasicMath\bin\Debug\BasicMath.pdb
+D:\diploma of software\programming3\BasicMath\BasicMath\obj\Debug\BasicMath.csprojAssemblyReference.cache
+D:\diploma of software\programming3\BasicMath\BasicMath\obj\Debug\BasicMath.csproj.CoreCompileInputs.cache
+D:\diploma of software\programming3\BasicMath\BasicMath\obj\Debug\BasicMath.dll
+D:\diploma of software\programming3\BasicMath\BasicMath\obj\Debug\BasicMath.pdb
